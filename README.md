@@ -4,3 +4,6 @@ A aquesta practica he desenvolupat un portal Moodle amb una temàtica escollida 
 
 ## 1. Configuració de l'usuari:
 
+Per poder configurar el teu usuari timdrem que 
+
+![Text alternatiu](Imagen_moodle_1.png "Títol opcional")
