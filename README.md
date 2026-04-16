@@ -4,11 +4,11 @@ A aquesta practica he desenvolupat un portal Moodle amb una temàtica escollida 
 
 ## 1. Configuració de l'usuari:
 
-Per poder configurar el teu usuari timdrem que anar a "Área personal" y domarli on tenim la nostra foto de perfil, hon tindrem que donarli a "Perfil".
+Per poder configurar el teu usuari timdrem que anar a "**Área personal**" y domarli on tenim la nostra foto de perfil, hon tindrem que donarli a "**Perfil**".
 
 ![Text alternatiu](Imagen_moodle_1.png "Títol opcional")
 
-Aqui ens sortira informacio del nostre perfil, pero per poder congigura-lo tindrem que anar hon posa "Editar perfil".
+Aqui ens sortira informacio del nostre perfil, pero per poder congigura-lo tindrem que anar hon posa "**Editar perfil**".
 
 ![Text alternatiu](Imagen_moodle_2.png "Títol opcional")
 
@@ -17,4 +17,19 @@ En aquest lloc podrem configurar algunes coses com son: el correu electronic, el
 ![Text alternatiu](Imagen_moodle_3.png "Títol opcional")
 
 
-## 1. Configuració de l'usuari:
+## 2. Configuració del lloc:
+
+
+### 2.1 Configuració de la ubicació:
+
+Per poder configurar l'ubicació tendrem que anar primerament desde el menu a "**Administració del lloc**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar l'opció "**Ubicació**" i entrar allí.
+
+![Text alternatiu](Imagen_moodle_5.png "Títol opcional")
+
+Y finalment, aqui tindrem que possar a nostra ubicacio per exepmle yo eh posat "Europa/Madrid" perque es el llloc que tinc mes cerca y tot lo demes lo eh posat perque l'usuaris el puguin configurar.
+
+![Text alternatiu](Imagen_moodle_6.png "Títol opcional")
