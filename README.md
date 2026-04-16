@@ -12,6 +12,9 @@ Aqui ens sortira informacio del nostre perfil, pero per poder congigura-lo tindr
 
 ![Text alternatiu](Imagen_moodle_2.png "Títol opcional")
 
-En aquest lloc podrem configurar algunes coses com son: el correu electronic, el nom que els surt als demas usuaris,... etc.
+En aquest lloc podrem configurar algunes coses com son: el correu electronic, el nom que els surt als demas usuaris, contrasenyes... etc.
 
 ![Text alternatiu](Imagen_moodle_3.png "Títol opcional")
+
+
+## 1. Configuració de l'usuari:
