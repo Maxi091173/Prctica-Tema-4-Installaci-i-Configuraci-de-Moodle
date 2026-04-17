@@ -33,3 +33,17 @@ Després tindrem que buscar l'opció "**Ubicació**" i entrar allí.
 Y finalment, aqui tindrem que possar a nostra ubicacio per exepmle yo eh posat "Europa/Madrid" perque es el llloc que tinc mes cerca y tot lo demes lo eh posat perque l'usuaris el puguin configurar.
 
 ![Text alternatiu](Imagen_moodle_6.png "Títol opcional")
+
+### 2.2 Configuració de l'idioma:
+
+Per poder configurar l'idioma tendrem que anar primerament desde el menu a "**Administració del lloc**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar l'opció "**idioma**" i entrem hon posa "**Paquets d'idiome**".
+
+![Text alternatiu](Imagen_moodle_5.png "Títol opcional")
+
+
+
+
