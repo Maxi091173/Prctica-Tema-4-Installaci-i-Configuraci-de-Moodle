@@ -65,7 +65,7 @@ En aquest apartat explicarem pas a pas com crear el teu primer curs a Moodle uti
 Primerament, anirem al menú superior i seleccionarem **“Mis cursos”**.  
 Aquí apareixerà una pantalla amb un missatge de benvinguda i l’opció **“Crear su primer curso”**.
 
-![Text alternatiu](Imagen_moodle_9.png "Mis cursos")
+![Text alternatiu](Imagen_moodle_10.png.png "Mis cursos")
 
 A continuació, premem el botó **“Crear curso”**.
 
