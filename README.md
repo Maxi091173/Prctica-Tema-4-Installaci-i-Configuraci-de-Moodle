@@ -50,11 +50,11 @@ Aqui podrem instalar els idiomes qu vulguem utilizar, per exemple yo eh instalat
 
 Despres tindrem que anar enrere y donarli a l'opció de "**ajustes d'idioma**"
 
-[Text alternatiu](Imagen_moodle_5.png "Títol opcional")
+![Text alternatiu](Imagen_moodle_5.png "Títol opcional")
 
 Y finalment aqui podrem cambiar l'idioma hon possa "**idioma per defecte**"
 
-[Text alternatiu](Imagen_moodle_9.png "Títol opcional")
+![Text alternatiu](Imagen_moodle_9.png "Títol opcional")
 
 ## 3. Creació d’un curs
 
