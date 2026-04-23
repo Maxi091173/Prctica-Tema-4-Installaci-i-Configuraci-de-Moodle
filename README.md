@@ -56,3 +56,54 @@ Y finalment aqui podrem cambiar l'idioma hon possa "**idioma per defecte**"
 
 [Text alternatiu](Imagen_moodle_9.png "Títol opcional")
 
+## 3. Creació d’un curs
+
+En aquest apartat explicarem pas a pas com crear el teu primer curs a Moodle utilitzant les opcions d’administrador.
+
+### 3.1 Accedir a la pàgina de cursos
+
+Primerament, anirem al menú superior i seleccionarem **“Mis cursos”**.  
+Aquí apareixerà una pantalla amb un missatge de benvinguda i l’opció **“Crear su primer curso”**.
+
+![Text alternatiu](Imagen_moodle_9.png "Mis cursos")
+
+A continuació, premem el botó **“Crear curso”**.
+
+![Text alternatiu](Imagen_moodle_11.png "Crear curso")
+
+---
+
+### 3.2 Formulari de creació del curs
+
+Un cop dins de **“Crear un nuevo curso”**, veurem el formulari amb els paràmetres generals del curs.
+
+![Text alternatiu](Imagen_moodle_12.png "Formulario de curso")
+
+Els camps principals que hem d’omplir són:
+
+#### • Nom complet del curs
+Aquest és el títol que veuran els estudiants.  
+Exemple: *“Introducción a Moodle”*.
+
+#### • Nom curt del curs
+Identificador breu del curs.  
+Exemple: *“Moodle-Intro”*.
+
+#### • Categoria del curs
+Seleccionem la categoria on volem que estigui ubicat el curs, per exemple **“Categoría 1”**.
+
+#### • Visibilitat del curs
+Podem triar entre:
+- **Mostrar** → el curs és visible per als estudiants.
+- **Ocultar** → el curs queda amagat mentre el preparem.
+
+---
+
+### 3.3 Guardar el curs
+
+Quan haguem completat tots els camps, baixem fins al final de la pàgina i fem clic a **“Guardar cambios”**.
+
+A partir d’aquí, Moodle ens portarà automàticament a la pàgina principal del curs, on podrem començar a afegir seccions, activitats i recursos.
+
+
+
