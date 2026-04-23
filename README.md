@@ -120,7 +120,7 @@ Primer, entrem al curs i seleccionem el tema on volem afegir el contingut, per e
 
 A dins del tema, fem clic al botó **“+”** que apareix al centre de la secció.
 
-![Text alternatiu](Imagen_moodle_143.png "Botón añadir")
+![Text alternatiu](Imagen_moodle_13.png "Botón añadir")
 
 ---
 
