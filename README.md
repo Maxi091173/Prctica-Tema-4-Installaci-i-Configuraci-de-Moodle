@@ -105,5 +105,92 @@ Quan haguem completat tots els camps, baixem fins al final de la pàgina i fem c
 
 A partir d’aquí, Moodle ens portarà automàticament a la pàgina principal del curs, on podrem començar a afegir seccions, activitats i recursos.
 
+## 4. Afegir un arxiu al curs
+
+Un cop tenim el curs creat i estructurat, podem començar a afegir contingut.  
+En aquest exemple veurem com **afegir un arxiu** dins d’un tema del curs.
+
+---
+
+### 4.1 Accedir al tema on volem afegir l’arxiu
+
+Primer, entrem al curs i seleccionem el tema on volem afegir el contingut, per exemple **“Tema 1”**.
+
+![Text alternatiu](Imagen_moodle_12.png "Tema 1")
+
+A dins del tema, fem clic al botó **“+”** que apareix al centre de la secció.
+
+![Text alternatiu](Imagen_moodle_143.png "Botón añadir")
+
+---
+
+### 4.2 Seleccionar “Actividad o recurso”
+
+En prémer el botó, apareixerà un menú amb dues opcions:
+
+- **Actividad o recurso**
+- **Subsección**
+
+Seleccionem **“Actividad o recurso”**.
+
+![Text alternatiu](Imagen_moodle_13.png "Menú de actividades")
+
+---
+
+### 4.3 Triar el tipus de recurs “Archivo”
+
+Apareixerà una finestra amb totes les activitats i recursos disponibles.  
+Dins de la categoria **“Recursos”**, seleccionem **“Archivo”**.
+
+![Text alternatiu](Imagen_moodle_13.png "Selector de recursos")
+
+Després fem clic al botó **“Añadir”**.
+
+---
+
+### 4.4 Configurar el recurs “Archivo”
+
+Ara Moodle ens porta a la pantalla de configuració del recurs.
+
+![Text alternatiu](Imagen_moodle_14.png "Configuración de archivo")
+
+Els camps principals són:
+
+#### • Nom
+Nom que veuran els estudiants.  
+Exemple: *“Imagen de ejemplo”*.
+
+#### • Descripció
+Opcional.  
+Podem explicar què és l’arxiu o per a què serveix.
+
+També podem marcar **“Mostrar la descripción en la página del curso”** si volem que aparegui visible.
+
+---
+
+### 4.5 Pujar l’arxiu
+
+A l’apartat **“Seleccionar archivos”**, trobarem una zona on podem:
+
+- Arrossegar i deixar anar un fitxer  
+- O bé fer clic a la icona per seleccionar-lo manualment
+
+![Text alternatiu](Imagen_moodle_15.png "Subida de archivos")
+
+Moodle indica que la mida màxima és **sense límit**, així que podem pujar qualsevol tipus d’arxiu permès.
+
+---
+
+### 4.6 Guardar i veure el resultat
+
+Quan haguem pujat el fitxer i configurat el recurs, baixem fins al final i fem clic a **“Guardar cambios”**.
+
+A continuació, tornarem al tema i veurem l’arxiu afegit, per exemple:
+
+![Text alternatiu](Imagen_moodle_16.png "Archivo añadido")
+
+Ara els estudiants poden descarregar-lo o visualitzar-lo directament des del curs.
+
+
 
 
