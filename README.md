@@ -259,7 +259,7 @@ Y finalment, per posar-lo en public tindrem que posar tots els ulls oberts.
 
 ![Text alternatiu](Imagen_moodle_25.png "Títol opcional")
 
-### 6.1 Posar en privat un curs.
+### 6.2 Posar en privat un curs.
 
 Per poder cambiar a privat un curs tendrem que anar primerament desde el menu a "**Mis cursos**" 
 
@@ -276,3 +276,15 @@ Quan estiguem dintre del curs, tindrem que anar a la secció "**Participants**",
 Y finalment, per posar-lo en public tindrem que posar tots els ulls tancats menys el de "**Matriculación manual**".
 
 ![Text alternatiu](Imagen_moodle_26.png "Títol opcional")
+
+### 6.3 Verificació de que estiguin pribats o publics
+
+![Text alternatiu](Imagen_moodle_27.png "Títol opcional")
+
+### 6.4 Com matricular a gent en un curs privat
+
+Simplement tens que anar al curs d'onarli a "**participants**" y donar-li hon posa "**Matricular usuaris**", en aquesta finestra simplement tindrem que añadir als usuaris que volguem asignar-los com profesor o alumne y abaix hon possa "**assignar rol**" posar el rol de alumne o profesor y donar-li a "**Matricular usuaris**".
+
+![Text alternatiu](Imagen_moodle_28.png "Títol opcional")
+
+
