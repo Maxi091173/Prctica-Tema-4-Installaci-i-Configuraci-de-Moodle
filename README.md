@@ -195,7 +195,7 @@ Ara els estudiants poden descarregar-lo o visualitzar-lo directament des del cur
 
 ### 5.1 Crear usuaris manualment
 
-Per poder crear un uusari nou tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
+Per poder crear un usuari nou tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
 
 ![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
 
@@ -238,3 +238,41 @@ Després tindrem que buscar la seccio de "**Cuentas**" i entrem hon posa "**Acci
 Quan estiguem dintre simplement tindrem que seleccionar a un o mes usuaris y donar-li a boto hon posa "**Añadir a la selecció**", seguidament tindrem que anar a la secció de "**Amb els usuaris seleccionats**" i posarem l'opció de "**Borrar**" y finalment l'hi donarem a "**ir**" pero confirmar-lo.
 
 ![Text alternatiu](Imagen_moodle_21.png "Títol opcional")
+
+### 6 Posar en public/Privat un curs.
+
+### 6.1 Posar en public un curs.
+
+Per poder cambiar a public un curs tendrem que anar primerament desde el menu a "**Mis cursos**" 
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs "**A**"
+
+![Text alternatiu](Imagen_moodle_23.png "Títol opcional")
+
+Quan estiguem dintre del curs, tindrem que anar a la secció "**Participants**", despres donar a "**Usuaris matriculats**" i finalment donarli a "**Métodos de matriculació**".
+
+![Text alternatiu](Imagen_moodle_24.png "Títol opcional")
+
+Y finalment, per posar-lo en public tindrem que posar tots els ulls oberts.
+
+![Text alternatiu](Imagen_moodle_25.png "Títol opcional")
+
+### 6.1 Posar en privat un curs.
+
+Per poder cambiar a privat un curs tendrem que anar primerament desde el menu a "**Mis cursos**" 
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs "**B**"
+
+![Text alternatiu](Imagen_moodle_23.png "Títol opcional")
+
+Quan estiguem dintre del curs, tindrem que anar a la secció "**Participants**", despres donar a "**Usuaris matriculats**" i finalment donarli a "**Métodos de matriculació**".
+
+![Text alternatiu](Imagen_moodle_24.png "Títol opcional")
+
+Y finalment, per posar-lo en public tindrem que posar tots els ulls tancats menys el de "**Matriculación manual**".
+
+![Text alternatiu](Imagen_moodle_26.png "Títol opcional")
