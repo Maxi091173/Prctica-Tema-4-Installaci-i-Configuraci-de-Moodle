@@ -199,7 +199,7 @@ Per poder crear un uusari nou tendrem que anar primerament desde el menu a "**Ad
 
 ![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
 
-Després tindrem que buscar la seccio de "**Cuaentas**" i entrem hon posa "**Crear un usuari nou**".
+Després tindrem que buscar la seccio de "**Cuentas**" i entrem hon posa "**Crear un usuari nou**".
 
 ![Text alternatiu](Imagen_moodle_17.png "Títol opcional")
 
@@ -213,7 +213,7 @@ Per poder crear usaris nous tendrem que anar primerament desde el menu a "**Admi
 
 ![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
 
-Després tindrem que buscar la seccio de "**Cuaentas**" i entrem hon posa "**Subir usuaris**".
+Després tindrem que buscar la seccio de "**Cuentas**" i entrem hon posa "**Subir usuaris**".
 
 ![Text alternatiu](Imagen_moodle_17.png "Títol opcional")
 
@@ -221,6 +221,20 @@ Cuan estiguem dintre, simplement tindrem que descarregar l'opció que es diu "**
 
 ![Text alternatiu](Imagen_moodle_19.png "Títol opcional")
 
-Y simplement anem a "**Previsualizar subida d'usuaris**" per comprobar que tot estigui bé.
+Y simplement anem a "**Previsualizar subida d'usuaris**" per comprobar que tot estigui bé y donar-li a "**Subir usuaris**" per guradar-lo.
 
 ![Text alternatiu](Imagen_moodle_20.png "Títol opcional")
+
+### 5.3 Borrar usuaris 
+
+Per poder borrar usaris tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar la seccio de "**Cuentas**" i entrem hon posa "**Accions d'usuaris masives**".
+
+![Text alternatiu](Imagen_moodle_17.png "Títol opcional")
+
+Quan estiguem dintre simplement tindrem que seleccionar a un o mes usuaris y donar-li a boto hon posa "**Añadir a la selecció**", seguidament tindrem que anar a la secció de "**Amb els usuaris seleccionats**" i posarem l'opció de "**Borrar**" y finalment l'hi donarem a "**ir**" pero confirmar-lo.
+
+![Text alternatiu](Imagen_moodle_21.png "Títol opcional")
