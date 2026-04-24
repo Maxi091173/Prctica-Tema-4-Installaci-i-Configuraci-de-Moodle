@@ -191,6 +191,15 @@ A continuació, tornarem al tema i veurem l’arxiu afegit, per exemple:
 
 Ara els estudiants poden descarregar-lo o visualitzar-lo directament des del curs.
 
+## 5 Crear usuaris
 
+### 5.1 Crear usuaris manualment
 
+Per poder configurar l'idioma tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar l'opció "**idioma**" i entrem hon posa "**Paquets d'idiome**".
+
+![Text alternatiu](Imagen_moodle_.png "Títol opcional")
 
