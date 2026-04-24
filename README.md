@@ -195,11 +195,32 @@ Ara els estudiants poden descarregar-lo o visualitzar-lo directament des del cur
 
 ### 5.1 Crear usuaris manualment
 
-Per poder configurar l'idioma tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
+Per poder crear un uusari nou tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
 
 ![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
 
-Després tindrem que buscar l'opció "**idioma**" i entrem hon posa "**Paquets d'idiome**".
+Després tindrem que buscar la seccio de "**Cuaentas**" i entrem hon posa "**Crear un usuari nou**".
 
-![Text alternatiu](Imagen_moodle_.png "Títol opcional")
+![Text alternatiu](Imagen_moodle_17.png "Títol opcional")
 
+Cuan estiguem dintre, ens posara opcions hon podrem configurar: el nom d'usuari, el nom y cognoms de l'alumne/profesor, contraseña y la foto de perfil, les configurem y simplement baixarem a baix del tot y li donarem hon posa "**Crear nou usuari**".
+
+![Text alternatiu](Imagen_moodle_18.png "Títol opcional")
+
+### 5.2 Crear usuaris automaticament
+
+Per poder crear usaris nous tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**d'usuaris**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar la seccio de "**Cuaentas**" i entrem hon posa "**Subir usuaris**".
+
+![Text alternatiu](Imagen_moodle_17.png "Títol opcional")
+
+Cuan estiguem dintre, simplement tindrem que descarregar l'opció que es diu "**example.csv**", hon tindrem que configurar els noms, cognoms, gmail y contrasenya. Y per ultim tindrem que donar-li a "**subir usuaris**".
+
+![Text alternatiu](Imagen_moodle_19.png "Títol opcional")
+
+Y simplement anem a "**Previsualizar subida d'usuaris**" per comprobar que tot estigui bé.
+
+![Text alternatiu](Imagen_moodle_20.png "Títol opcional")
