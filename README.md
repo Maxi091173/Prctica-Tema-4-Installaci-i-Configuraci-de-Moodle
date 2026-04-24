@@ -287,4 +287,32 @@ Simplement tens que anar al curs d'onarli a "**participants**" y donar-li hon po
 
 ![Text alternatiu](Imagen_moodle_28.png "Títol opcional")
 
+## 7 Personalitzar l'aspecte del lloc
 
+### 7.1 Com cambiar el logotip
+
+Per poder cambiar el logotip tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**Aparencia**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar la seccio de "**Aparencia**" i entrem hon posa "**Logotips**".
+
+![Text alternatiu](Imagen_moodle_29.png "Títol opcional")
+
+Simplement descarreguerem un png o jpg del logotip  que vulguenm i el pusarem a tots els apartats, y baixarem a abaix del tot hon possa "**Guardar cambis**".
+
+### 7.2 Com cambiar el logotip
+
+Per poder cambiar el Fons de pantalla tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**Aparencia**"
+
+![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
+
+Després tindrem que buscar la seccio de "**Aparencia**" i entrem hon posa "**Temas**" hon l'hi donarem a l'engranatge del nostre tema.
+
+![Text alternatiu](Imagen_moodle_30.png "Títol opcional")
+
+Simplement descarreguerem un png o jpg del Fondo de pantalla  que vulguenm i el pusarem al primer i ultim apartat, y baixarem a abaix del tot hon possa "**Guardar cambis**".
+
+### 7.3 Resultat final:
+
+![Text alternatiu](Imagen_moodle_31.png "Títol opcional")
