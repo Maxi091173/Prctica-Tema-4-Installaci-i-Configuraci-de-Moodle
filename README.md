@@ -344,3 +344,24 @@ Al cabar simplement tindrem que donar-li a "**Guardar**" que es troba abaix del 
 
 ![Text alternatiu](Imagen_moodle_35.png "Formulario de curso")
 
+### 8.2 Com importar una tasca ya creada a un curs diferent.
+
+Per poder crear una tasca nova, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs "**B**"
+
+Despres tindrem que donar-li a la tasca que hem creat.
+
+![Text alternatiu](Imagen_moodle_36.png "Títol opcional")
+
+Despres tindrem que donar-li al "**Más**" i despres donar-li a l'opció de "**Copia de seguretat**".
+
+![Text alternatiu](Imagen_moodle_37.png "Títol opcional")
+
+Despres tindrem que baixar i configurar el que vulguem añadir a la copia de seguretat, despresn al descargar la copia de seguretat, tindrem que anar al mateix lloc, pero tindrem que donar-li hon posa "**Copia de seguretat**" y donar-li a l'opció de "**Importar**"
+
+![Text alternatiu](Imagen_moodle_38.png "Títol opcional")
+
+hon tindrem que seleccionar a quin curs posar l'informacio y despres posar-li el fitxher .zip o mbz que tinguem instalat.
