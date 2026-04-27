@@ -303,7 +303,7 @@ Simplement descarreguerem un png o jpg del logotip  que vulguenm i el pusarem a 
 
 ### 7.2 Com cambiar el logotip
 
-Per poder cambiar el Fons de pantalla tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**Aparencia**"
+Per poder cambiar el Fons de pantalla tendrem que anar primerament desde el menu a "**Administració del lloc**" y anar a l'apartat "**Aparencia**".
 
 ![Text alternatiu](Imagen_moodle_4.png "Títol opcional")
 
@@ -316,3 +316,31 @@ Simplement descarreguerem un png o jpg del Fondo de pantalla  que vulguenm i el 
 ### 7.3 Resultat final:
 
 ![Text alternatiu](Imagen_moodle_31.png "Títol opcional")
+
+## 8 Com crear tasques:
+
+### 8.1 Posar en public un curs.
+
+Per poder crear una tasca nova, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs "**B**"
+
+Seguidament, tindrem que anar a uns dels temas que em crat y tindrem que donar-li al simbol de "**+**"
+
+![Text alternatiu](Imagen_moodle_12.png "Formulario de curso")
+
+Després tindrem que anar a la seccio de "**Evaluació**" i donar-li a l'opció "**tarea**".
+
+![Text alternatiu](Imagen_moodle_34.png "Formulario de curso")
+
+![Text alternatiu](Imagen_moodle_33.png "Formulario de curso")
+
+Ara simplement tindrem que editar-lo, posan el nom de la tasca, la fecha d'entrega, la descripció y les instrucciones.
+Al cabar simplement tindrem que donar-li a "**Guardar**" que es troba abaix del tot.
+
+### 8.1.1 Com es veu
+
+![Text alternatiu](Imagen_moodle_35.png "Formulario de curso")
+
