@@ -383,3 +383,25 @@ Despres tindrem que donar-li al ""**Más**" y donar-li hon posa "**import**"
 Per ultim tindrem que possar el curs del que vulguem sacar l'informació y despres anar a l'ultim pas hon tindrem que donar-li a "**retilització de cursos**" y despres donar-li a "**importació**", y ya tendriem tot del curs A al curs B.
 
 ![Text alternatiu](Imagen_moodle_42.png "Títol opcional")
+
+## 9 Com configurar les qualificacións automatiques y com crear insignes
+
+### 9.1 Com configurar les qualificacións automatiques 
+
+Per poder configurar la calificació, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs que vulguem configurar les calificacións.
+
+Despres tindrem que donar-li a hon possa "**Calificacións**" y hon possa "**Informe de calificador**", l'hi donem y despres a l'opció de "**Configuració de calificacións**"
+
+![Text alternatiu](Imagen_moodle_43.png "Títol opcional")
+
+Ara, aqui podrem cambiar coses com els porcentatges que equivalen cada tasca per separat, com es fa la suma total... entre altres cosas.
+
+Quan acabis de configurar-lo simplement tendras que anar abaix del tot y donar-li a "**Guardar cambios**"
+
+![Text alternatiu](Imagen_moodle_44.png "Títol opcional")
+
+## 9.2 com crear insignes
