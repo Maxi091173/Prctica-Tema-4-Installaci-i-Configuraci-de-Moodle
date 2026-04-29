@@ -404,7 +404,7 @@ Quan acabis de configurar-lo simplement tendras que anar abaix del tot y donar-l
 
 ![Text alternatiu](Imagen_moodle_44.png "Títol opcional")
 
-## 9.2 com crear insignes
+### 9.2 com crear insignes
 
 Per poder crear usuaris tendrem que anar primerament desde el menu a "**Administració del lloc**".
 Després tindrem que buscar la seccio "**d'insignies**" i entrem hon posa "**Crear nova insignia**".
@@ -423,7 +423,7 @@ Ahora tendremos que darle a "**elegir**" i elegir que criterio queremos poner-le
 
 Al acabar tendremos que ir i darle a habilitar insignia para que se pueda utilizar.
 
-### 9.2.1 com assignar insignes
+#### 9.2.1 com assignar insignes
 
 Per poder assignar una insignia a usuaris tendrem que anar primerament desde el menu a "**Administració del lloc**".
 Després tindrem que buscar la seccio "**d'insignies**" i entrem hon posa "**Gestionar insignies**"
@@ -437,3 +437,35 @@ Aqui simplement tindrem que buscar la insignia que vulguem assignar, donar-li al
 Simplement tindrem que fert click en el nombre de l'alumne que vulguem assignar-li l'insignia i donar-li a boto de "**otorgar insignia**" i ya estaria!
 
 ![Text alternatiu](Imagen_moodle_50.png "Títol opcional")
+
+## 10 Com Bannegar una IP i com aplicar regles de seguretat
+
+### 10.1 Com Bannegar una IP 
+
+Per poder bannegar una IP, tendrem que anar primerament desde el menu a "**Administració del lloc**".
+Després tindrem que buscar la secció de "**seguretat**" i entrem hon posa "**bloqueador d'IP**"
+
+![Text alternatiu](Imagen_moodle_52.png "Títol opcional")
+
+aqui tindrem que baixa i hon possa "**Llista d'IPs bloqueadas**" i posar l'IP que vullguem bloquear.
+
+![Text alternatiu](Imagen_moodle_53.png "Títol opcional")
+
+### 10.2 Com aplicar regles de seguretat
+
+Per poder aplicar regles de seguretat, tendrem que anar primerament desde el menu a "**Administració del lloc**".
+Després tindrem que buscar la secció de "**seguretat**" i entrem hon posa "**Politiques de seguretat del llocs**"
+
+![Text alternatiu](Imagen_moodle_52.png "Títol opcional")
+
+Aqui se pueden cambiar muchas cosas como son los: “**Umbral de bloqueo de la cuenta**”, “**Forzar a los usuarios a iniciar sesión**”, “**Permitir indexado por motores de búsqueda**”, “**Comprobar contraseña al iniciar sesión**”, “**Recordar nombre de usuario**”, “**Abrir a Google**”, “**Tamaño máximo del archivo subido**”, “**Espacio de archivos privados**”, “**Forzar login para ver avatares**” o otros...
+
+Yo eh cambiado estos tres puntos por las siguientes razones:
+
+“**Forzar a los usuarios a iniciar sesión**” a Sí, porque creo que es la forma más efectiva de evitar que personas externas vean cursos o información interna del sitio.
+
+“**Umbral de bloqueo de la cuenta**” a un valor como 5 intentos, porque creo que es importante proteger el sitio contra ataques de fuerza bruta sin bloquear cuentas por error.
+
+“**Comprobar contraseña al iniciar sesión**” a Sí, porque creo que así todos los usuarios, incluso los antiguos, cumplen la política de contraseñas actual.
+
+![Text alternatiu](Imagen_moodle_54.png "Títol opcional")
