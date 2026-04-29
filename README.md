@@ -405,3 +405,35 @@ Quan acabis de configurar-lo simplement tendras que anar abaix del tot y donar-l
 ![Text alternatiu](Imagen_moodle_44.png "Títol opcional")
 
 ## 9.2 com crear insignes
+
+Per poder crear usuaris tendrem que anar primerament desde el menu a "**Administració del lloc**".
+Després tindrem que buscar la seccio "**d'insignies**" i entrem hon posa "**Crear nova insignia**".
+
+![Text alternatiu](Imagen_moodle_51.png "Títol opcional")
+
+Aqui podrem configurar tot de la insignia, com el nombre, la foto y altres coses, cuan ya hem acabat de configurar-lo, simplement l'hi donem a "**guardar**".
+
+![Text alternatiu](Imagen_moodle_46.png "Títol opcional")
+
+Ahora tendremos que darle a "**elegir**" i elegir que criterio queremos poner-le a nuestra insignia, yo le pondre el de "**Concesion manual por rol**" y se lo asignare a quienes tienen rol de professor.
+
+![Text alternatiu](Imagen_moodle_47.png "Títol opcional")
+
+![Text alternatiu](Imagen_moodle_48.png "Títol opcional")
+
+Al acabar tendremos que ir i darle a habilitar insignia para que se pueda utilizar.
+
+### 9.2.1 com assignar insignes
+
+Per poder assignar una insignia a usuaris tendrem que anar primerament desde el menu a "**Administració del lloc**".
+Després tindrem que buscar la seccio "**d'insignies**" i entrem hon posa "**Gestionar insignies**"
+
+![Text alternatiu](Imagen_moodle_51.png "Títol opcional")
+
+Aqui simplement tindrem que buscar la insignia que vulguem assignar, donar-li als "**tres puntets**" i simplement donar-li a "**otorgar insignia**"
+
+![Text alternatiu](Imagen_moodle_49.png "Títol opcional")
+
+Simplement tindrem que fert click en el nombre de l'alumne que vulguem assignar-li l'insignia i donar-li a boto de "**otorgar insignia**" i ya estaria!
+
+![Text alternatiu](Imagen_moodle_50.png "Títol opcional")
