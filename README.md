@@ -470,10 +470,12 @@ Yo eh cambiado estos tres puntos por las siguientes razones:
 
 ![Text alternatiu](Imagen_moodle_54.png "Títol opcional")
 
-## 11 Com exportar una copia de seguretat d'un curs.
+## 11 Com importar una copia de seguretat d'un curs.
 
-Per fer una copia de seguridad, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
+Per poder importar copia de seguridad, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
 
 ![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
 
-I anar al curs que vulguem fer-li la copia de seguretat, en aquest cast yo seleccionare el meu curs "**B**".
+I anar al curs que vulguem importar la copia de seguretat, preferiblement que estigui buit, en aquest cast yo seleccionare el meu curs "**xc**" y donarli al "**Más**" i per ultim a la opció de "****"
+
+
