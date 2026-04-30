@@ -469,3 +469,11 @@ Yo eh cambiado estos tres puntos por las siguientes razones:
 “**Comprobar contraseña al iniciar sesión**” a Sí, porque creo que así todos los usuarios, incluso los antiguos, cumplen la política de contraseñas actual.
 
 ![Text alternatiu](Imagen_moodle_54.png "Títol opcional")
+
+## 11 Com exportar una copia de seguretat d'un curs.
+
+Per fer una copia de seguridad, tendrem que anar primerament desde el menu principal a "**Mis cursos**" .
+
+![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
+
+I anar al curs que vulguem fer-li la copia de seguretat, en aquest cast yo seleccionare el meu curs "**B**".
