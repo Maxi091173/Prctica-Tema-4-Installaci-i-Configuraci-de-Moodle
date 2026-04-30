@@ -476,6 +476,75 @@ Per poder importar copia de seguridad, tendrem que anar primerament desde el men
 
 ![Text alternatiu](Imagen_moodle_22.png "Títol opcional")
 
-I anar al curs que vulguem importar la copia de seguretat, preferiblement que estigui buit, en aquest cast yo seleccionare el meu curs "**xc**" y donarli al "**Más**" i per ultim a la opció de "****"
+I anar al curs que vulguem importar la copia de seguretat, preferiblement que el curs estigui buit, en aquest cast yo seleccionare el meu curs "**xc**", ara tindrem que donar-li al "**Más**" i per ultim a la opció de "**Reutilización de curso**" y despres tindrem que donar-li a l'opció "**Restaurar**".
+
+![Text alternatiu](Imagen_moodle_55.png "Títol opcional")
+
+![Text alternatiu](Imagen_moodle_56.png "Títol opcional")
+
+Ara simplent tindrem que seleccionar el areciu de la copia de seguretat i posar-lo hon ens posa en aquest lloc.
+
+![Text alternatiu](Imagen_moodle_58.png "Títol opcional")
+
+I per últim simplement l'hi donem a "**Confirmar**"
+
+## 12 Com crear un qüestionari amb preguntes del banc de preguntes i organitzar-les en categories
+
+Per poder crear un qüestionari utilitzant preguntes del banc de preguntes, primer haurem d’organitzar aquestes preguntes en **categories diferents**. A continuació tens tots els passos necessaris.
+
+### 12.1 Accedir al curs
+Primerament, des del menú principal anirem a **"Mis cursos"** i seleccionarem el curs on vulguem crear el qüestionari.
+
+### 12.2 Obrir el banc de preguntes
+Un cop dins del curs, haurem d’anar al menú superior i seleccionar:
+
+**Más → Banco de preguntas**
+
+Això ens portarà a l’espai on es gestionen totes les preguntes del curs.
+
+### 12.3. Crear categories per organitzar les preguntes
+Dins del banc de preguntes, seleccionarem l’opció:
+
+**Categorías**
+
+Aquí podrem crear carpetes per organitzar les preguntes.
+
+Per crear una categoria nova:
+1. Anar a la part inferior de la pàgina.
+2. Escriure el nom de la categoria (per exemple: *Unitat 1*, *Examen final*, *Teoria*, etc.).
+3. Seleccionar la categoria “mare” (normalment *Top* o *Curso actual*).
+4. Fer clic a **Crear categoría**.
+
+Repetirem aquest procés per crear totes les categories que necessitem.
+
+### 12.4 Afegir preguntes a cada categoria
+Ara que ja tenim les categories creades, tornarem al menú del banc de preguntes i seleccionarem:
+
+**Preguntas**
+
+A la part superior hi ha un desplegable on podem triar en quina categoria volem afegir preguntes.
+
+Per afegir una pregunta:
+1. Seleccionar la categoria desitjada.
+2. Fer clic a **Crear una nueva pregunta**.
+3. Escollir el tipus de pregunta (opció múltiple, vertader/fals, resposta curta...).
+4. Omplir els camps necessaris.
+5. Guardar.
+
+Repetirem aquest procés per omplir totes les categories amb les preguntes corresponents.
+
+### 12.5 Crear el qüestionari
+Quan ja tinguem les preguntes organitzades, tornarem a la pàgina principal del curs i farem:
+
+**Activar edición → Añadir una actividad o recurso → Cuestionario**
+
+Li posarem un nom i configurarem els paràmetres bàsics (dates, intents, qualificació...).
+
+Finalment, guardarem.
+
+### 12.6 Afegir preguntes del banc al qüestionari
+Un cop creat el qüestionari, l’obrirem i farem clic a:
+
+
 
 
